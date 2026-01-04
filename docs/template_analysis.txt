@@ -1,0 +1,256 @@
+# AI Templates (5160 total) - Most Relevant for Enterprise
+
+## Featured AI Templates:
+1. Angie, personal AI assistant with Telegram voice and text - Derek Cheung
+2. Chat with local LLMs using n8n and Ollama - Mihai Farcas
+3. Chat with a database using AI - David Roberts
+4. RAG chatbot for company documents using Google Drive and Gemini - Mihai Farcas
+5. Basic automatic Gmail email labelling with OpenAI and Gmail API - Martijn Kerver
+6. Analyze Landing Page with OpenAI and Get Optimization Tips - Not Another Marketer
+7. Add Project Tasks to Google Sheets with GPT-4.1-mini Chat Assistant - Robert Breen
+8. University FAQ & calendar assistant with Telegram, MongoDB and Gemini
+9. Automated DHL shipment tracking bot for web forms and email inquiries - Yusuke Yamamoto
+10. Voice-based appointment booking system with ElevenLabs AI and Cal.com - InfyOm Technologies
+11. Build a voice AI chatbot with ElevenLabs and InfraNodus knowledge experts
+12. AI Personal Assistant - Max Mitcham
+
+## AI RAG Templates:
+1. Local chatbot with retrieval augmented generation (RAG) - Thomas Janssen
+2. AI-powered WhatsApp chatbot for text, voice, images, and PDF with RAG - NovaNode
+3. RAG Starter Template using Simple Vector Stores, Form trigger and OpenAI - n8n Team
+4. AI-powered web research in Google Sheets with GPT and Bright Data - Elay Guez
+5. Customer support WhatsApp bot with Google Docs knowledge base and Gemini AI - Tharwat Moha
+6. Personalize resumes & cover letters with AI, GitHub Pages and Google Drive - Michael
+
+## AI Summarization Templates:
+1. Track SEO keyword rankings with Bright Data MCP and GPT-4o AI analysis
+2. Extract & transform HackerNews data to Google Docs
+3. Evaluate tool usage accuracy in multi-agent AI workflows
+4. Automated product review monitoring with sentiment analysis
+5. Automated competitor pricing monitor with Bright Data MCP & OpenAI
+6. PPC campaign intelligence & optimization with Google Ads, Sheets & Slack
+
+## Multimodal AI Templates:
+1. Auto-create TikTok videos with VEED.io AI avatars, ElevenLabs & GPT-4 - Dr. Firas
+2. Generate & auto-post AI videos to social media with Veo3 and Blotato - Dr. Firas
+3. Create AI viral videos using NanoBanana 2 PRO & VEO3.1 and publish via Blotato
+4. Generate Funny AI Videos with Sora 2 and Auto-Publish to TikTok - Davide
+5. Process large documents with OCR using SubworkflowAI and Gemini - Jimleuk
+6. Create & upload AI-generated ASMR YouTube Shorts with Seedance, Fal AI, and GPT
+
+
+# Sales Templates (1000 total) - Most Relevant for Enterprise
+
+## Featured Sales Templates:
+1. Scrape recent news about a company before a call - Milorad Filipović
+2. Create Salesforce accounts based on Google Sheets data - Tom
+3. Generate leads with Google Maps - Alex Kim
+4. OpenAI GPT-3: Company enrichment from website content - Lucas Perret
+5. Gmail campaign sender: Bulk-send emails and follow up automatically if no reply
+6. Social media analysis and automated email generation - PollupAI
+
+## CRM Templates:
+1. Customer onboarding automation with HubSpot, email sequences and team alerts - David Olusola
+2. Generate single-use personalized Calendly links with Google Sheets tracking
+3. Summarize calls & notify teams via HubSpot, Slack, Email, WhatsApp - Encoresky
+4. Call center analytics with dual-AI verification using DeepSeek models - Omar Akoudad
+5. Generate & send spare parts price quotes with Gmail, Sheets and Gemini AI - berke
+6. AI-Powered Post-Sales Call Automated Proposal Generator - Gerald Denor
+
+## Lead Generation Templates:
+1. Enrich HubSpot companies with Polish CEIDG data using NIP identifiers - Karol Otręba
+2. Lead generation system: Google Maps to email scraper
+3. Automate email discovery for companies with Anymail Finder
+4. Lead workflow: Yelp & Trustpilot scraping + OpenAI analysis via BrightData - Incrementors
+5. Google Maps business scraper with contact extraction via Apify and Firecrawl - Naveen
+6. Qualify & reach out to B2B leads with Groq AI, Apollo, Gmail & Sheets - VKAPS IT
+
+## Lead Nurturing Templates:
+1. Generate personalized sales emails with LinkedIn data & Claude 3.7 via OpenRouter - Adam
+2. Automate email tracking & generate pixel for lead
+3. AI-powered lead research & personalized email generation with Groq
+4. Form to meeting: Google Calendar, Zoom, Gmail & Slack booking automation - Takuya Ojima
+5. Personalized email outreach with LinkedIn & Crunchbase data and Gemini AI review
+6. Automate lead meeting scheduling with Zoho CRM, Google Calendar & Gemini AI - Webline
+
+
+# Marketing Templates (2365 total) - Most Relevant for Enterprise
+
+## Featured Marketing Templates:
+1. Summarize YouTube videos from transcript - Ahmed Alnaqa
+2. Dynamically generate a webpage from user request using OpenAI structured output - Agent Studio
+3. Analyze Landing Page with OpenAI and Get Optimization Tips - Not Another Marketer
+4. Export search console results to Google Sheets - Zacharia Kimotho
+5. Add new customers from WooCommerce to Mautic - Jonathan
+6. Send multiple emails in Gmail directly via Google Sheets - AlQaisi
+
+## Content Creation Templates:
+1. Auto-create TikTok videos with VEED.io AI avatars, ElevenLabs & GPT-4 - Dr. Firas
+2. Generate & auto-post AI videos to social media with Veo3 and Blotato - Dr. Firas
+3. Create AI viral videos using NanoBanana 2 PRO & VEO3.1 and publish via Blotato
+4. Generate Funny AI Videos with Sora 2 and Auto-Publish to TikTok - Davide
+5. Create & upload AI-generated ASMR YouTube Shorts with Seedance, Fal AI, and GPT
+6. Generate marketing ad banners with LINE, Gemini, and Nano Banana Pro - Masaki Go
+
+## Market Research Templates:
+1. Track SEO keyword rankings with Bright Data MCP and GPT-4o AI analysis
+2. Extract & transform HackerNews data to Google Docs
+3. Automated product review monitoring with sentiment analysis
+4. AI-powered web research in Google Sheets with GPT and Bright Data - Elay Guez
+5. Automated competitor pricing monitor with Bright Data MCP & OpenAI - Yaron
+6. Automated content marketing intelligence with OpenAI, Ahrefs & multi-platform integration
+
+## Social Media Templates:
+1. Automated LinkedIn content creation with GPT-4 and DALL-E for scheduled posts - Samuel
+2. AI-powered multi-social media post automation: Google Trends & Perplexity
+3. Create comedic marketing reels with Sora2, OpenAI & auto-post to social media - Automate With Marc
+4. Automate email campaign analysis & smart follow-ups with Bright Data
+5. Generate AI-Powered LinkedIn Posts with Google Gemini and Gen-Imager - Evoort
+6. Automate Multi-Platform Social Media Content Creation with AI - Joseph LePage
+
+
+# IT Ops Templates (900 total) - Most Relevant for Enterprise
+
+## Featured IT Templates:
+1. Backup all n8n workflows to Google Drive every 4 hours - Zacharia Kimotho
+2. Report n8n workflow errors to Telegram - Mutasem
+3. Scrape any web page into structured JSON data with ScrapeNinja and AI - Anthony
+4. Import data from MySQL into Google Sheets - Lorena
+5. Weekly Shodan query - report accidents - n8n Team
+6. Analyze email headers for IP reputation and spoofing detection - Gmail - Angel Menendez
+
+## SecOps Templates:
+1. Comprehensive SSL certificate monitoring with Discord alerts and Notion integration - Tom Cao
+2. Website scam risk detector with GPT-4o and SerpAPI - AiAgent
+3. Discord server anti-impersonation / scammer tracker with data tables - Cj
+4. Intelligent AI digest for security, privacy, and compliance feeds - Niranjan G
+5. Automated URL phishing & threat analysis with NixGuard AI - Jonathan | NEX
+6. Monitor software compliance with Jamf patch summaries in Slack - Jean-Marie Rizkal
+
+## Engineering Templates:
+1. Evaluate tool usage accuracy in multi-agent AI workflows using evaluation
+2. Track AI agent token usage and estimate costs in Google Sheets
+3. Reduce LLM Costs with Semantic Caching using Redis Vector Store and HuggingFace - Tihomir Mateev
+4. Compare GPT-4, Claude & Gemini Responses with Contextual Analysis
+5. Build custom workflows automatically with GPT-4o, RAG, and web search - Franz
+6. AI prompt generator workflow - Anurag Srivastava
+
+## DevOps Templates:
+1. Perform Multi-type DNS Lookups with Google's Free Public DNS Service - Ossian Madisso
+2. Monitor & manage Docker containers with Telegram bot & AI log analysis - Malte Sohns
+3. Multiple websites monitoring with notifications including phone calls - InfyOm Technologies
+4. Control your n8n instance remotely with Telegram bot commands - Arthur Braghetto
+5. Automatic monitoring of multiple URLs with downtime alerts - Oriol Seguí
+6. Monitor n8n workflow errors with Telegram alerts (multi-language setup) - Vadym Nahorny
+
+
+# Support Templates (606 total) - Most Relevant for Enterprise
+
+## Featured Support Templates:
+1. Chat with a database using AI - David Roberts
+2. Auto categorise Outlook emails with AI - Wayne Simpson
+3. RAG chatbot for company documents using Google Drive and Gemini - Mihai Farcas
+4. Discord AI-powered bot - Eduard
+5. A very simple "Human in the Loop" email response system using AI and IMAP - Davide
+6. Create a branded AI-powered website chatbot - Wayne Simpson
+
+## Internal Wiki Templates:
+1. Local chatbot with retrieval augmented generation (RAG) - Thomas Janssen
+2. RAG Starter Template using Simple Vector Stores, Form trigger and OpenAI - n8n Team
+3. Automate Document Q&A with Multi-Agent RAG Orchestration using Contextual
+4. RAG chatbot with Supabase + TogetherAI + Openrouter - iamvaar
+5. Save Costs In RAG Workflows using the Q&A Tool With Multiple Models - Niklas Hat
+6. AI legal assistant agent — AI-powered legal Q&A with document retrieval
+
+## Support Chatbot Templates:
+1. AI-powered WhatsApp chatbot for text, voice, images, and PDF with RAG - NovaNode
+2. Customer support WhatsApp bot with Google Docs knowledge base and Gemini AI - Tharwat Moha
+3. University FAQ & calendar assistant with Telegram, MongoDB and Gemini
+4. Automated DHL shipment tracking bot for web forms and email inquiries - Yusuke Yamamoto
+5. Create a Calendly availability API endpoint for real-time scheduling data - Omer
+6. Voice-based appointment booking system with ElevenLabs AI and Cal.com - InfyOm Technologies
+
+## Ticket Management Templates:
+1. Gmail AI Email Manager - Max Mitcham
+2. Automate ITSM ticket classification and resolution using Gemini, Qdrant
+3. Intelligent email organization with AI-powered content classification for Gmail - Nir
+4. Smart email draft generator - Oneclick AI Squad
+5. AI email assistant: Prioritize Gmail with ChatGPT summaries and Slack digests - Darsheel
+6. Smart email responder workflow using AI - Ankur Parag Kulkarni
+
+
+# Document Ops Templates (821 total) - Most Relevant for Enterprise
+
+## Featured Document Templates:
+1. Automate CV screening with AI candidate analysis - Lucas Peyrin
+2. Create an RSS feed based on a website's content - Tom
+3. Convert image files (JPG, PNG) to URLs and reduce file size for FREE - simonscrapes
+4. Extract expenses from emails and add to Google Sheets - Jonathan
+5. Parse PDF with LlamaParse and save to Airtable - Mark Shcherbakov
+
+## Document Extraction Templates:
+1. Process large documents with OCR using SubworkflowAI and Gemini - Jimleuk
+2. PPC campaign intelligence & optimization with Google Ads, Sheets & Slack - Daniel Shashko
+3. AI-driven inventory management with OpenAI forecasting & ERP integration - Oneclick AI Squad
+4. Personalize resumes & cover letters with AI, GitHub Pages and Google Drive - Michael A Putra
+5. Transform markdown content into structured Notion blocks - Tom
+6. Build a PDF Document RAG System with Mistral OCR, Qdrant and Gemini AI - Davide
+
+## File Management Templates:
+1. Learn how to use binary data in n8n (video included) - Ryan Nolan
+2. One-way sync between Telegram, Notion, Google Drive, and Google Sheets - Lakshit Ukani
+3. Process multiple files with forms: a tutorial on binary data and loops - Wyeth
+4. Download Threads videos & log results in Google Sheets - Sk developer
+5. AI-powered file management automation for Google Drive with MCP - David Olusola
+6. Download TikTok videos without watermarks and upload to Google Drive - Cameron Wills
+
+## Invoice Processing Templates:
+1. Automated invoice processing with Telegram, GPT-4o, OCR and SAP integration - Raquel Giugliano
+2. Extract invoice data from Google Drive to Sheets with Mistral OCR and Gemini - Ysqander
+3. AI-powered invoice reminder & payment tracker for finance & accounting - Oneclick AI Squad
+4. Invoice processor & validator with OCR, AI & Google Sheets - Dhrumil Patel
+5. Extract invoice data from email to Google Sheets using GPT-4o AI automation - Yaron Been
+6. Automated invoice-PO matching with Google Gemini AI and email notifications - Abdul Matheen
+
+
+# Other Templates (1464 total) - Most Relevant for Enterprise
+
+## Crypto Trading Templates:
+1. AI-powered stock analysis assistant with Telegram, Claude & GPT-4O Vision - Femi Ad
+2. AI-powered stock market summary bot - kenandrewmiranda
+3. Stock market daily digest with Bright Data scraping & Gemini AI email reports - Zacharia Kimotho
+4. Binance spot trader - limit & market orders via API - Todsaporn Sangboon
+5. Automated stock analysis reports with technical & news sentiment using GPT-4o - Elay Guez
+6. Automated stock trading with AI: integrating Alpaca and Google Sheets - Raz Hadas
+
+## HR Templates:
+1. AI candidate screening pipeline: LinkedIn to Telegram with Gemini & Apify - Dean Pike
+2. Automated HR Service System with WhatsApp, GPT-4 Classification & Google Workspace - Tanay Agarwal
+3. Generate and email PDF payslips from Google Sheets with Gmail - Khairul Muhtadin
+4. Resume screening & evaluation system with Gemini AI, Google Sheets & Drive for HR - Tharwat Mohamed
+5. Interview Scheduling Automation with Google Sheets, Calendar, Gmail & GPT-4o - Rahul Joshi
+6. LinkedIn job finder automation using Bright Data API & Google Sheets - Dvir Sharon
+
+## Miscellaneous Templates:
+1. Automated press pass verification & badge creation with QR codes & multi-channel distribution - Jitesh Dugar
+2. Create Dynamic Seating & Venue Layout Plans with Google Sheets - Oneclick AI Squad
+3. AI-powered one-click virtual fitting room for WooCommerce, Shopify, Prestashop - Davide
+4. Automate multilingual Slack communication (JA ⇄ EN) with Gemini 2.5 Flash - Tomohiro Goto
+5. Generate and manage short links with GPT-4.1 and data storage - Nghia Nguyen
+6. Explore n8n nodes in a visual reference library - I versus AI
+
+## Personal Productivity Templates:
+1. Create a personalized daily newsletter with Google Gemini AI and RSS feeds - Dixit Ram
+2. Automated job applications & status tracking with LinkedIn, Indeed & Google Sheets - VipinW
+3. AI Personal Assistant - Max Mitcham
+4. AI personal assistant with GPT-4o: Email, calendar, search & CRM integration - Jordan Lee
+5. Send multi-city weather forecasts with AI-enhanced formatting from OpenWeatherMap to Gmail - Sridevi Edupuganti
+6. Extract text from images with Telegram Bot & OCR Tesseractjs - Rudi Afandi
+
+## Project Management Templates:
+1. Add Project Tasks to Google Sheets with GPT-4.1-mini Chat Assistant - Robert Breen
+2. AI-powered Scrum Master assistant with OpenAI, Slack and Asana integration - Łukasz
+3. AI-powered email to Jira ticket creation with Llama 3.2 - Oneclick AI Squad
+4. Audio-to-Trello task bot - dirogar
+5. Interactive Slack approval & data submission system with webhooks - Niranjan G
+6. Sync Linear issues to Todoist tasks automatically (create, update, close) - Léo Mathurin
